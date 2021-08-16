@@ -32,6 +32,7 @@ INSERT INTO album_members VALUES (1, 1);
 INSERT INTO album_members VALUES (1, 6);
 INSERT INTO album_members VALUES (1, 7);
 INSERT INTO album_members VALUES (2, 1);
+INSERT INTO album_members VALUES (2, 2);
 INSERT INTO album_members VALUES (2, 8);
 INSERT INTO album_members VALUES (2, 9);
 INSERT INTO album_members VALUES (3, 2);
