@@ -6,6 +6,7 @@ INSERT INTO singer VALUES (5, 'singer_5 Pit');
 INSERT INTO singer VALUES (6, 'singer_6 Rob');
 INSERT INTO singer VALUES (7, 'singer_7 Jack');
 INSERT INTO singer VALUES (8, 'singer_8 Jonh');
+INSERT INTO singer VALUES (9, 'singer_9 Zorg');
 
 
 INSERT INTO style VALUES (1, 'Pop');
@@ -123,3 +124,4 @@ INSERT INTO singer_style VALUES (7, 6);
 INSERT INTO singer_style VALUES (8, 1);
 INSERT INTO singer_style VALUES (8, 2);
 INSERT INTO singer_style VALUES (8, 3);
+INSERT INTO singer_style VALUES (9, 3);
